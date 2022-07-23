@@ -16,4 +16,9 @@ NOW
 So, in June 2022 I took a course into manual QA testing at sedtest-school.ru having had work practice on the project at wildberries.ru. I am also studying Python, test automatization in Selenium IDE, and working with SQL at stepik.org. 
 
 
+Mine CV :
+EN https://drive.google.com/file/d/1tWlqqLc79WTM6PlZSPWi_8TPyOB2PLQY/view?usp=sharing
+Ru https://drive.google.com/file/d/1FieWi-5XTPVlHo6OOLNTHduaA5s4IoKo/view?usp=sharing
 
+Portfolio:
+https://drive.google.com/file/d/1Emtz5gRxhUUv7NCS5bV6UumO4GkSBNK2/view?usp=sharing
