@@ -11,8 +11,6 @@ Until recent times, my professional career was mainly concerned with restaurant 
 
 During the quarantine 2020, I decided that acquiring new qualifications were something I should be focusing on. Hence, I successfully went through the course of SEO at Geekbrain.ru and later on had some hands-on practice in working as a SEO where I checked duplicate web pages and optimized search engines’ inquiries. Soon after I realized that pure marketing was not something that interested me much.
 
-NOW
-
 So, in June 2022 I took a course into manual QA testing at sedtest-school.ru having had work practice on the project at wildberries.ru. I am also studying Python, test automatization in Selenium IDE, and working with SQL at stepik.org. 
 
 
