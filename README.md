@@ -5,7 +5,7 @@ About me:
 
 My name is Andrey Samoilov. 
 
-Earlier
+
 
 Until recent times, my professional career was mainly concerned with restaurant business. After graduation I worked as a cook and eventually was promoted to the position of a chef. The scope of my responsibilities involved developing and introducing new and seasonal menus, managing and restructuring the work the restaurants and launching new cooking technologies. Moreover, I have had the experience of being a home chef while serving in a couple of families.
 
